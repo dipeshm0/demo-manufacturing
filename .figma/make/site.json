@@ -1,0 +1,10 @@
+{
+  "description": "A premium, customizable B2B website template designed for manufacturing companies to showcase products, capabilities, and generate quality leads.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
